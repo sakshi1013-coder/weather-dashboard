@@ -31,4 +31,4 @@ Clone or download this repository.
 
 Open the project folder and replace the placeholder API key in script.js with your own from OpenWeatherMap.
 
-link:- 
+link:- https://sakshi1013-coder.github.io/weather-dashboard/
